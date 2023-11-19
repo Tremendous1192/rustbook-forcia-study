@@ -1,0 +1,10 @@
+C:\Users\treme\source\RustApps\rustbook-forcia-study\ch05\section04\target\debug\deps\arrayvec-c6f2ccf6714c7243.rmeta: C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.5.2\src\lib.rs C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.5.2\src\maybe_uninit.rs C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.5.2\src\array.rs C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.5.2\src\array_string.rs C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.5.2\src\char.rs C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.5.2\src\errors.rs
+
+C:\Users\treme\source\RustApps\rustbook-forcia-study\ch05\section04\target\debug\deps\arrayvec-c6f2ccf6714c7243.d: C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.5.2\src\lib.rs C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.5.2\src\maybe_uninit.rs C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.5.2\src\array.rs C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.5.2\src\array_string.rs C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.5.2\src\char.rs C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.5.2\src\errors.rs
+
+C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.5.2\src\lib.rs:
+C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.5.2\src\maybe_uninit.rs:
+C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.5.2\src\array.rs:
+C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.5.2\src\array_string.rs:
+C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.5.2\src\char.rs:
+C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.5.2\src\errors.rs:

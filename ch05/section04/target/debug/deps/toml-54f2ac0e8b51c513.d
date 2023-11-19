@@ -1,0 +1,13 @@
+C:\Users\treme\source\RustApps\rustbook-forcia-study\ch05\section04\target\debug\deps\toml-54f2ac0e8b51c513.rmeta: C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.5.11\src\lib.rs C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.5.11\src\map.rs C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.5.11\src\value.rs C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.5.11\src\datetime.rs C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.5.11\src\ser.rs C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.5.11\src\de.rs C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.5.11\src\tokens.rs C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.5.11\src\macros.rs C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.5.11\src\spanned.rs
+
+C:\Users\treme\source\RustApps\rustbook-forcia-study\ch05\section04\target\debug\deps\toml-54f2ac0e8b51c513.d: C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.5.11\src\lib.rs C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.5.11\src\map.rs C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.5.11\src\value.rs C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.5.11\src\datetime.rs C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.5.11\src\ser.rs C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.5.11\src\de.rs C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.5.11\src\tokens.rs C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.5.11\src\macros.rs C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.5.11\src\spanned.rs
+
+C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.5.11\src\lib.rs:
+C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.5.11\src\map.rs:
+C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.5.11\src\value.rs:
+C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.5.11\src\datetime.rs:
+C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.5.11\src\ser.rs:
+C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.5.11\src\de.rs:
+C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.5.11\src\tokens.rs:
+C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.5.11\src\macros.rs:
+C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.5.11\src\spanned.rs:

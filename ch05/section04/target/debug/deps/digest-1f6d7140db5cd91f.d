@@ -1,0 +1,11 @@
+C:\Users\treme\source\RustApps\rustbook-forcia-study\ch05\section04\target\debug\deps\digest-1f6d7140db5cd91f.rmeta: C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.9.0\src\lib.rs C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.9.0\src\digest.rs C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.9.0\src\dyn_digest.rs C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.9.0\src\errors.rs C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.9.0\src\fixed.rs C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.9.0\src\variable.rs C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.9.0\src\xof.rs
+
+C:\Users\treme\source\RustApps\rustbook-forcia-study\ch05\section04\target\debug\deps\digest-1f6d7140db5cd91f.d: C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.9.0\src\lib.rs C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.9.0\src\digest.rs C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.9.0\src\dyn_digest.rs C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.9.0\src\errors.rs C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.9.0\src\fixed.rs C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.9.0\src\variable.rs C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.9.0\src\xof.rs
+
+C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.9.0\src\lib.rs:
+C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.9.0\src\digest.rs:
+C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.9.0\src\dyn_digest.rs:
+C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.9.0\src\errors.rs:
+C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.9.0\src\fixed.rs:
+C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.9.0\src\variable.rs:
+C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.9.0\src\xof.rs:

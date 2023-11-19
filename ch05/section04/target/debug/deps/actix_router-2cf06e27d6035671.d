@@ -1,0 +1,10 @@
+C:\Users\treme\source\RustApps\rustbook-forcia-study\ch05\section04\target\debug\deps\actix_router-2cf06e27d6035671.rmeta: C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-router-0.2.7\src/lib.rs C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-router-0.2.7\src\de.rs C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-router-0.2.7\src\path.rs C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-router-0.2.7\src\resource.rs C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-router-0.2.7\src\router.rs C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-router-0.2.7\src\url.rs
+
+C:\Users\treme\source\RustApps\rustbook-forcia-study\ch05\section04\target\debug\deps\actix_router-2cf06e27d6035671.d: C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-router-0.2.7\src/lib.rs C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-router-0.2.7\src\de.rs C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-router-0.2.7\src\path.rs C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-router-0.2.7\src\resource.rs C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-router-0.2.7\src\router.rs C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-router-0.2.7\src\url.rs
+
+C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-router-0.2.7\src/lib.rs:
+C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-router-0.2.7\src\de.rs:
+C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-router-0.2.7\src\path.rs:
+C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-router-0.2.7\src\resource.rs:
+C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-router-0.2.7\src\router.rs:
+C:\Users\treme\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-router-0.2.7\src\url.rs:
